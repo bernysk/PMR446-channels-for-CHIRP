@@ -4,7 +4,7 @@ Pre-configured settings for [CHIRP](https://trac.chirp.danplanet.com/chirp_next/
 200 memory slots of the UV-K5(8) are utilized for 8 PMR channels and 24 subchannels. (200 = 8 * (1+24))
 
 ## Setting files
-The channel settings are in file `pmr_UV-5R.csv`. You can import it in the CHIRP. This is a regular CSV text file, so you can also inspect and edit it in a text editor or in a spreadsheet.
+The channel settings are in file `pmr446_8CH_24SUB.csv`. You can import it in the CHIRP. This is a regular CSV text file, so you can also inspect and edit it in a text editor or in a spreadsheet.
 
 ## Subchannels i.e. Tone i.e. CTCSS 
 If you are not familiar with PMR, here's some basic information about subchannels. 
